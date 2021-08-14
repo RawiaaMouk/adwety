@@ -1,0 +1,14 @@
+@font-face {
+    font-family: taj-lt;
+    src: url(../fonts/Tajawal-Light.ttf);
+}
+
+@font-face {
+    font-family: taj-rg;
+    src: url(../fonts/Tajawal-Regular.ttf);
+}
+
+@font-face {
+    font-family: taj-bd;
+    src: url(../fonts/Tajawal-Bold.ttf);
+}
